@@ -1,0 +1,43 @@
+
+body {
+   font-family: /*"Inter",*/ sans-serif;
+   font-display: swap;
+   background-color: #f0f2e9;
+}
+
+img{
+ justify-content:left;  
+}
+
+nav{
+ background-color: #404040;
+ font-size: medium;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ justify-content: center;
+ color: white;
+}
+
+button{
+ background-color: #a23479;
+ text-align: center;
+ color: white;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+a {
+   color: white;
+   padding: 10px;
+   text-decoration: none;
+}
+
+ul{
+ display: inline;
+ align-items: center;
+ background-color: #404040; 
+}
+
+
